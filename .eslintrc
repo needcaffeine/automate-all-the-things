@@ -1,0 +1,10 @@
+{
+    "extends": "standard",
+    "rules": {
+        "key-spacing"               : 0,
+        "max-len"                   : [0, 120, 2],
+        "object-curly-spacing"      : [2, "always"],
+        "indent"                    : ["error", 4],
+        "operator-linebreak"        : [1, "after"]
+    }
+}
